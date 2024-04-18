@@ -16,7 +16,7 @@ Option to save processed video with exercise counter overlay
 
 Clone the Repository:
  ```bash
-git clone 
+git clone https://github.com/IlyasNgou/Gym_curls_counter.git
 ```
 
 ### Install Dependencies:
