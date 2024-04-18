@@ -11,3 +11,17 @@ Real-time exercise repetition counting for biceps curls, squats, shoulder latera
 Utilizes MediaPipe Pose estimation for accurate pose detection and landmark extraction
 Customizable counter display for visualizing exercise progress
 Option to save processed video with exercise counter overlay
+
+### Getting Started :
+
+Clone the Repository:
+ ```bash
+git clone 
+```
+
+### Install Dependencies:
+
+ ```bash
+pip install -r requirements.txt
+
+```
