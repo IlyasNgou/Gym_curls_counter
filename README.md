@@ -25,3 +25,7 @@ git clone https://github.com/IlyasNgou/Gym_curls_counter.git
 pip install -r requirements.txt
 
 ```
+### Additional Notes:
+**Camera Selection:** The script assumes you have one default camera connected. To specify a different camera device, you might need to modify the code 
+**Exercise Selection:** The script currently supports counting repetitions for the specified exercises. You can modify the code to add support for other exercises.
+**Visualization:** The counter display is customizable by modifying the code.
